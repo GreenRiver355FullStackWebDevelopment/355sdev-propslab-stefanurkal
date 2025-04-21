@@ -1,0 +1,17 @@
+.recipeCard {
+  background-color: rgb(241, 238, 238);
+  border: 1px solid #f0e5cf;
+  border-radius: 12px;
+  padding: 1rem;
+  margin: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* 👈 Shadow right here */
+  font-family: 'Segoe UI', sans-serif;
+  
+}
+
+.recipe-card:hover {
+background-color: cornflowerblue;
+}
+.read-the-docs {
+  color: #888;
+}
